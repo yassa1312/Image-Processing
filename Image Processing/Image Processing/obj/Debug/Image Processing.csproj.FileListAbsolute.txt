@@ -1,0 +1,29 @@
+C:\Users\Lenovo\source\repos\Image Processing\Image Processing\bin\Debug\Image Processing.exe.config
+C:\Users\Lenovo\source\repos\Image Processing\Image Processing\bin\Debug\Image Processing.exe
+C:\Users\Lenovo\source\repos\Image Processing\Image Processing\bin\Debug\Image Processing.pdb
+C:\Users\Lenovo\source\repos\Image Processing\Image Processing\bin\Debug\openCV.dll
+C:\Users\Lenovo\source\repos\Image Processing\Image Processing\obj\Debug\Image Processing.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Image Processing\Image Processing\obj\Debug\Interop.MDACVer.dll
+C:\Users\Lenovo\source\repos\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.ResolveComReference.cache
+C:\Users\Lenovo\source\repos\Image Processing\Image Processing\obj\Debug\Image_Processing.Form1.resources
+C:\Users\Lenovo\source\repos\Image Processing\Image Processing\obj\Debug\Image_Processing.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Image Processing\Image Processing\obj\Debug\Image Processing.exe
+C:\Users\Lenovo\source\repos\Image Processing\Image Processing\obj\Debug\Image Processing.pdb
+C:\Users\Lenovo\source\repos\Image Processing\Image Processing\obj\Debug\Image_Processing.Form2.resources
+D:\4.1\Image Processing\Image Processing\Image Processing\bin\Debug\Image Processing.exe.config
+D:\4.1\Image Processing\Image Processing\Image Processing\bin\Debug\Image Processing.exe
+D:\4.1\Image Processing\Image Processing\Image Processing\bin\Debug\Image Processing.pdb
+D:\4.1\Image Processing\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.AssemblyReference.cache
+D:\4.1\Image Processing\Image Processing\Image Processing\obj\Debug\Interop.MDACVer.dll
+D:\4.1\Image Processing\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.ResolveComReference.cache
+D:\4.1\Image Processing\Image Processing\Image Processing\obj\Debug\Image_Processing.Form1.resources
+D:\4.1\Image Processing\Image Processing\Image Processing\obj\Debug\Image_Processing.Form2.resources
+D:\4.1\Image Processing\Image Processing\Image Processing\obj\Debug\Image_Processing.Properties.Resources.resources
+D:\4.1\Image Processing\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.GenerateResource.cache
+D:\4.1\Image Processing\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.CoreCompileInputs.cache
+D:\4.1\Image Processing\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.CopyComplete
+D:\4.1\Image Processing\Image Processing\Image Processing\obj\Debug\Image Processing.exe
+D:\4.1\Image Processing\Image Processing\Image Processing\obj\Debug\Image Processing.pdb
